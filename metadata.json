@@ -1,0 +1,6 @@
+{
+  "name": "St. Mary's English School IT Club",
+  "description": "Official cloud-connected web platform for St. Mary's English School IT Club - featuring member portfolios, academic resources, notices, projects, events, achievements, and club verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
